@@ -1,0 +1,13 @@
+
+Hola esta es mi presitacion del examen final de Html.
+
+dado que e tenido problemas para poder subir a github dado el archivo de video que exede los 50mb del repositorio.
+E consultado a un tutor me recomedo usar las plataformas de nubes en mi caso elegi Googledrive - la cual uso mucho-
+
+https://drive.google.com/open?id=1Q3VDMYn67wW9NcEl96-ig82bTnjVYE-3
+
+ademas dejo adjunto el repositorio inicial de github(el cual esta muy incompleto en sus fase inicial del proyecto).
+
+https://github.com/FranciscoNRunge/francisconrunge.github.com.git
+
+ademas adjuto una imagen_add.png de github deskop

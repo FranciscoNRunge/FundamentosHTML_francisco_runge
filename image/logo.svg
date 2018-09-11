@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3781"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs3775">
+    <linearGradient
+       id="linearGradient4633"
+       inkscape:collect="always">
+      <stop
+         id="stop4641"
+         offset="0"
+         style="stop-color:#228b55;stop-opacity:1;" />
+      <stop
+         id="stop4643"
+         offset="1"
+         style="stop-color:#228b55;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4633"
+       id="linearGradient4639"
+       x1="206.37241"
+       y1="559.69684"
+       x2="610.41779"
+       y2="559.69684"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4690"
+       x="-0.4243092"
+       width="1.8486184"
+       y="-0.41813603"
+       height="1.8362721">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="71.433403"
+         id="feGaussianBlur4692" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient4722"
+       gradientUnits="userSpaceOnUse"
+       x="206.28772"
+       y="354.80765">
+      <meshrow
+         id="meshrow4724">
+        <meshpatch
+           id="meshpatch4726">
+          <stop
+             path="c 134.832,0  269.663,0  404.495,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4728" />
+          <stop
+             path="c 0,136.614  0,273.228  0,409.842"
+             style="stop-color:#7cfc00;stop-opacity:1"
+             id="stop4730" />
+          <stop
+             path="c -134.832,0  -269.663,0  -404.495,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4732" />
+          <stop
+             path="c 0,-136.614  0,-273.228  0,-409.842"
+             style="stop-color:#7cfc00;stop-opacity:1"
+             id="stop4734" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4756">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:335.66497803px;line-height:1.25;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74825478"
+         x="215.80258"
+         y="660.76337"
+         id="text4760"
+         transform="matrix(0.97205793,0.00798129,-0.00738929,1.0286846,0,0)"
+         clip-path="none"><tspan
+           sodipodi:role="line"
+           id="tspan4758"
+           x="215.80258"
+           y="660.76337"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:335.66497803px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';stroke-width:1.74825478">FR</tspan></text>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4762">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:335.66497803px;line-height:1.25;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.74825478"
+         x="215.80258"
+         y="660.76337"
+         id="text4766"
+         transform="matrix(0.97205793,0.00798129,-0.00738929,1.0286846,0,0)"
+         clip-path="none"><tspan
+           sodipodi:role="line"
+           id="tspan4764"
+           x="215.80258"
+           y="660.76337"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:335.66497803px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';stroke-width:1.74825478">FR</tspan></text>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4768">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.81135559px;line-height:1.25;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46255907"
+         x="57.097767"
+         y="174.82698"
+         id="text4772"
+         transform="matrix(0.97205793,0.00798129,-0.00738929,1.0286846,0,0)"
+         clip-path="none"><tspan
+           sodipodi:role="line"
+           id="tspan4770"
+           x="57.097767"
+           y="174.82698"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.81135559px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';stroke-width:0.46255907">FR</tspan></text>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="529.12249"
+     inkscape:cy="457.65263"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-grids="true"
+     showguides="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="971"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3778">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffff00;stroke-width:0.26458332"
+       id="path3783"
+       cx="108.1012"
+       cy="148.07738"
+       rx="53.672619"
+       ry="54.42857"
+       clip-path="url(#clipPath4768)" />
+    <path
+       style="fill:url(#linearGradient4639);stroke-width:1.01015258;fill-opacity:1;paint-order:fill markers stroke;filter:url(#filter4690)"
+       d="m 383.96007,763.28529 c -13.13242,-1.59007 -33.23843,-6.51438 -45.13552,-11.05448 -27.20068,-10.38017 -48.68707,-24.0914 -69.59652,-44.41203 -18.21574,-17.70278 -31.12533,-35.29162 -41.68107,-56.78893 -38.78185,-78.98126 -23.30385,-174.48216 38.33544,-236.5337 38.50941,-38.76697 88.64642,-59.80456 142.52686,-59.80456 46.46142,0 89.62225,15.29614 126.30354,44.76181 39.95581,32.09607 66.48766,79.01847 74.14874,131.13437 2.07153,14.09198 2.07576,42.70076 0.008,57.5223 -14.17532,101.63586 -100.61021,177.39448 -201.47051,176.58561 -6.9448,-0.0557 -17.49236,-0.69037 -23.43904,-1.41039 z"
+       id="path4627"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#7cfc00;fill-opacity:1;stroke-width:1.01015258;paint-order:fill markers stroke"
+       d="M 386.69098,763.69963 C 308.89182,754.95267 242.11855,700.63974 217.09724,625.75325 192.62762,552.51789 210.39306,472.48015 263.4329,416.9995 c 30.24393,-31.6357 67.91647,-51.78163 111.83075,-59.80308 12.24777,-2.2372 41.60715,-3.0794 54.86389,-1.57383 52.48762,5.96105 99.24059,31.3966 133.83198,72.81013 34.8927,41.77427 51.92916,99.57131 45.5361,154.48347 -9.98023,85.7237 -70.2338,155.06981 -152.88047,175.95087 -21.03594,5.31482 -48.65636,7.22371 -69.92417,4.83257 z"
+       id="path4694"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)"
+       clip-path="url(#clipPath4762)" />
+    <path
+       style="fill:url(#meshgradient4722);fill-opacity:1;stroke-width:1.01015258;paint-order:fill markers stroke"
+       d="M 386.08489,763.69399 C 359.63711,760.70076 332.18331,751.5611 308.48923,737.86158 274.07547,717.96412 245.014,686.80892 227.39421,650.92406 203.46331,602.18587 199.73058,546.01711 216.97186,494.09264 c 25.14218,-75.7191 91.22066,-129.51514 170.07727,-138.46389 14.6794,-1.66584 42.92141,-0.69163 57.144,1.97118 91.69771,17.16804 159.8064,94.24961 166.10971,187.99358 4.04688,60.18585 -17.65028,118.12786 -59.96876,160.1459 -33.39522,33.15812 -74.71233,52.96079 -121.02536,58.00561 -11.26187,1.22674 -32.15149,1.20207 -43.22383,-0.051 z"
+       id="path4704"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)"
+       clip-path="url(#clipPath4756)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4736"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'Showcard Gothic';font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Showcard Gothic';font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion4738"
+         style="-inkscape-font-specification:'Showcard Gothic';font-family:'Showcard Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:192px;"><rect
+           id="rect4740"
+           width="284.86301"
+           height="177.78685"
+           x="270.72089"
+           y="492.18451"
+           style="-inkscape-font-specification:'Showcard Gothic';font-family:'Showcard Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:192px;" /></flowRegion><flowPara
+         id="flowPara4742"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4748"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4750"><rect
+           id="rect4752"
+           width="62.629459"
+           height="63.63961"
+           x="311.12698"
+           y="544.7124" /></flowRegion><flowPara
+         id="flowPara4754"></flowPara></flowRoot>  </g>
+</svg>
