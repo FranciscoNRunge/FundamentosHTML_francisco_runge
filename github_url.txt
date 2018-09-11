@@ -1,13 +1,14 @@
 
 Hola esta es mi presitacion del examen final de Html.
 
-dado que e tenido problemas para poder subir a github dado el archivo de video que exede los 50mb del repositorio.
-E consultado a un tutor me recomedo usar las plataformas de nubes en mi caso elegi Googledrive - la cual uso mucho-
+dado que e tenido problemas para poder subir a github dado la calidad del video e tenido que reducirla drasticamente,
+ ya que git acepta no mas de 50 mb.
 
-https://drive.google.com/open?id=1Q3VDMYn67wW9NcEl96-ig82bTnjVYE-3
+ el URL del git es: https://github.com/FranciscoNRunge/FundamentosHTML_francisco_runge.git
 
-ademas dejo adjunto el repositorio inicial de github(el cual esta muy incompleto en sus fase inicial del proyecto).
+y ahi una version con una mejor calidad de video y audio en una plataforma de Google drive
+ (lo cual me recomendo que hiciera un tutor antes de modifcar el video). dejo el enlase:
 
-https://github.com/FranciscoNRunge/francisconrunge.github.com.git
+ https://drive.google.com/open?id=1Q3VDMYn67wW9NcEl96-ig82bTnjVYE-3
 
-ademas adjuto una imagen_add.png de github deskop
+ PD. gracias por tomarse el tiempo de leer. exitos 
